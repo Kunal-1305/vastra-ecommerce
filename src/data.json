@@ -1,0 +1,136 @@
+{
+  "x": [
+    {
+      "id": 101,
+      "recipe": "Shirt",
+      "photo": "./product1.jpg",
+      "price": 1299,
+      "description": "A classic formal shirt crafted from premium cotton, perfect for office and formal events.",
+      "color": "Black",
+      "material": "Paneer & Spices",
+      "size": "Medium",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry.",
+      "specs": "half sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 102,
+      "recipe": "Shirt",
+      "photo": "./product2.jpg",
+      "price": 949,
+      "description": "A classic formal shirt crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden Brown",
+      "material": "Chickpeas, flour",
+      "size": "Large",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "half sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 103,
+      "recipe": "Pant",
+      "photo": "./product3.jpg",
+      "price": 825,
+      "description": "A classic formal pant crafted from premium cotton, perfect for office and formal events.",
+      "color": "Red & Brown",
+      "material": "Vegetables, bread",
+      "size": "Regular",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": " sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 104,
+      "recipe": "jeans",
+      "photo": "./product4.jpg",
+      "price": 675,
+      "description": "A classic formal jeans crafted from premium cotton, perfect for office and formal events.",
+      "color": "Brown",
+      "material": "Bun, patty, cheese",
+      "size": "Standard",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "Slim-fit cut, 5-pocket style, zip fly with button closure, mid-rise waist, reinforced stitching, fade-wash effect"
+    },
+    {
+      "id": 105,
+      "recipe": "jeans",
+      "photo": "./product5.jpg",
+      "price": 1170,
+      "description": "A classic formal jeans crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "Slim-fit cut, 5-pocket style, zip fly with button closure, mid-rise waist, reinforced stitching, fade-wash effect"
+      
+    },
+    {
+      "id": 106,
+      "recipe": "t-shirt",
+      "photo": "./product6.jpg",
+      "price": 1660,
+      "description": "A classic formal t-shirt crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "half sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 107,
+      "recipe": "Shirt",
+      "photo": "./product7.jpg",
+      "price": 1000,
+      "description": "A classic formal t-shirt crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "half sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 108,
+      "recipe": "Shirt",
+      "photo": "./product8.jpg",
+      "price": 1600,
+      "description": "A classic formal shirt crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "half sleeves, pointed collar, button-up front, single chest pocket, wrinkle-resistant, breathable"
+    },
+    {
+      "id": 109,
+      "recipe": "Jeans",
+      "photo": "./product9.jpg",
+      "price": 1500,
+      "description": "A classic formal jeans crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "Slim-fit cut, 5-pocket style, zip fly with button closure, mid-rise waist, reinforced stitching, fade-wash effect"
+    },
+    {
+      "id": 110,
+      "recipe": "Jeans",
+      "photo": "./product10.jpg",
+      "price": 1900,
+      "description": "A classic formal jeans crafted from premium cotton, perfect for office and formal events.",
+      "color": "Golden",
+      "material": "Cheese, dough, toppings",
+      "size": "12 inch",
+      "gender": "Unisex",
+      "care": "Cold wash inside out, no bleach, hang to dry",
+      "specs": "Slim-fit cut, 5-pocket style, zip fly with button closure, mid-rise waist, reinforced stitching, fade-wash effect"
+    }
+  
+  ]
+}
